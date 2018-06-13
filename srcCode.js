@@ -1,3 +1,3 @@
 function showText(){
-  return "Text Shown";
+	return getText();
 }

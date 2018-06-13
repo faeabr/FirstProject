@@ -1,3 +1,3 @@
-function logic(){
-  return "None";
+function getText(){
+	return "Text is This";
 }
